@@ -1,0 +1,21 @@
+/*
+string len
+string compare
+strign reverse
+string compare
+string lower
+string concatination
+string upper
+string toggelUperLower
+
+using arrays and pointers
+
+what is constant pointer 
+
+
+memory 
+storage
+quallifiers
+
+
+*/
