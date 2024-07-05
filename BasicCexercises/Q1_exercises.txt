@@ -1,6 +1,9 @@
 /*
 
 1. program to check whether the number is even or odd(with and without using arithmetic ops)
+    problem in without/bitwise
+
+    
 2. program to swap two numbers (without and without third variable )
 3. program to check whether two numbers are equal (with and without == operator)
 4. program to find the sum of digits of a number (with and without recursion)

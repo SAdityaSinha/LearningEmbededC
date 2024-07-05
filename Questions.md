@@ -16,6 +16,20 @@ try ti implement which day is it , check for the leap year and every thing (the 
 
 what are qualifiers 
 
+what is a pointer
+waht is the data type of a pointer
+
+pointer pointing to a const pointer, can change it's  value justify
+pinter to a constant (no data changer)(but can chage add)
+constant to a pointer (no address change)(but can change data)
+
+function pointer
+structure pinter
+
+
+call of value changes value or not 
+
+
 
 embeded.com
 embededrelated.com

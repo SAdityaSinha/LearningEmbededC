@@ -18,6 +18,17 @@ int getLen(char *c)
     return count;
 }
 
+//print the string
+void printString(char *c)
+{
+    char *temp = c;
+    while (*temp)
+    {
+        printf("%c ",*temp);
+        temp++;
+    }
+    
+}
 
 // string compare
 bool strComp(char *s1,char *s2)
@@ -43,7 +54,7 @@ bool strComp(char *s1,char *s2)
     }
 }
 
-// // String Swap
+// // String Swap id not working 
 void strSwap(char *s1,char *s2)
 {
     char temp;

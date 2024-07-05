@@ -6,6 +6,13 @@ int main()
 {
     char str[]="YoManUKnowItAllYa";
     char str2[] ="Hello";
+
+    printf("PrintingStrings \n");
+    printString(str);
+    printf("\n");
+    printString(str2);
+    printf("\n");
+    
     printf("%d\n",getLen(str));
     printf("%c\n",(strComp(str,str2))?'Y':'N');
 

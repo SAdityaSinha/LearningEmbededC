@@ -1,0 +1,6 @@
+
+1. reverse Print String using pointer
+2. reverse print integere array using pring
+3. reverse print float using an array
+4.  
+// using pointer to do string questions done in ..root/BasicCprogrammin/Strings
