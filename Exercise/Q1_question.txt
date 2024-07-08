@@ -1,0 +1,4 @@
+implement time (hhMMSS) date DDmmyy using structures 
+I enter todays date then it gives me tommoros date 
+try ti implement which day is it , check for the leap year 
+and every thing (the problem is highly driven with structures )

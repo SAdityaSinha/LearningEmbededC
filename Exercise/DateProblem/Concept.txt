@@ -1,0 +1,36 @@
+1st thing // deal with leap year
+// at the time of taking input check weather it's a leap Yr
+// and if so the what is the date person is entering
+
+    leap year days 366
+    extra day on 29 
+
+    years div by 4
+    but not by 100
+    but by 400
+
+Basic calender 
+
+    Normal year 
+        365 days
+        52 weaks + 1 day
+
+    Leap year
+        366 days
+        52 weaks + 2 days
+
+Now Months:
+    Jan : 31        3
+    Feb : 28/29     0/1
+    Mar : 31        3
+    Apr : 30        2
+    May : 31        3
+    Jun : 30        2
+    Jul : 31        3
+    Aug : 31        3
+    Sep : 30        2
+    Oct : 31        3
+    Nov : 30        2
+    Dec : 31        3
+
+Yr :

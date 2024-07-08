@@ -17,3 +17,25 @@ Def and Undef are a crusial thing
 conditional compilation
 
 register are ob
+
+function pointer
+    declared a function
+
+
+    same as the signature or the function 
+    make the function point to the baas add. of the function
+
+    e.g.  //reffer to root/BaseCprogramming/pointers    ptrtofunc.c
+        #include<stdio.h>
+        int add(int i,int j)
+        {
+            return i+j;
+        }
+
+        int main()
+        {
+            int (*fadd)(int,int); //is a function pointer
+
+            fadd = add;
+            printf("Fadd gives %d",fadd(6,7));
+        }
